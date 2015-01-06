@@ -1,0 +1,1 @@
+class XGSquadNativeBase extends Actor;

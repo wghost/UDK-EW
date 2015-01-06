@@ -1,0 +1,2 @@
+class XComUnitPawn extends XComLocomotionUnitPawn;
+

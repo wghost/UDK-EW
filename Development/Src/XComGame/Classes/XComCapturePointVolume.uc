@@ -1,0 +1,1 @@
+class XComCapturePointVolume extends Volume;

@@ -1,0 +1,2 @@
+class XComPlayerControllerNativeBase extends GamePlayerController;
+

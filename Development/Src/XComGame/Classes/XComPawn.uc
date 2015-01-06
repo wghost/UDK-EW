@@ -1,0 +1,1 @@
+class XComPawn extends GamePawn;

@@ -1,0 +1,2 @@
+class XComSpawnPointNativeBase extends Actor;
+

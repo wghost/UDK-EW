@@ -1,0 +1,1 @@
+class XComGameInfo extends FrameworkGame;

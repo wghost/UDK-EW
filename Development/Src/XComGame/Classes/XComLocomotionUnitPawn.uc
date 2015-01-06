@@ -1,0 +1,1 @@
+class XComLocomotionUnitPawn extends XComUnitPawnNativeBase;
