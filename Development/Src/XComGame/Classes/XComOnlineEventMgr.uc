@@ -1,5 +1,5 @@
 class XComOnlineEventMgr extends OnlineEventMgr
-    native;
+	native;
 
 // Export UXComOnlineEventMgr::execDevOnlineMsg(FFrame&, void* const)
 native function DevOnlineMsg(string msg);

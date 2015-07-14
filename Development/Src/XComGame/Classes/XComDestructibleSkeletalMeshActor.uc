@@ -1,1 +1,2 @@
-class XComDestructibleSkeletalMeshActor extends XComDestructibleActor;
+class XComDestructibleSkeletalMeshActor extends XComDestructibleActor
+    native(Destruction);

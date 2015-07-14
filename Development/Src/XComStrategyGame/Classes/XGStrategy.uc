@@ -12,3 +12,7 @@ function XGHeadQuarters GetHQ()
 function XGStrategyAI GetAI()
 {
 }
+
+function XGWorld GetWorld()
+{
+}

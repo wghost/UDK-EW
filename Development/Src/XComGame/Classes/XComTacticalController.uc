@@ -1,5 +1,9 @@
 class XComTacticalController extends XComPlayerController;
 
+simulated function XGUnit GetActiveUnit()
+{
+}
+
 exec function SetCameraYaw(float fDegrees)
 {
 }

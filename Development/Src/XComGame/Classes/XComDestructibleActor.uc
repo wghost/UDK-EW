@@ -1,1 +1,2 @@
-class XComDestructibleActor extends XComLevelActor;
+class XComDestructibleActor extends XComLevelActor
+    native(Destruction);

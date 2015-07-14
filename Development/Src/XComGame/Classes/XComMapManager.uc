@@ -32,6 +32,6 @@ struct native XComMapMetaData
     var float Chance;
 };
 
-// Export UXComMapManager::execGetCurrentMapMetaData(FFrame&, void* const)
 native static simulated function XComMapMetaData GetCurrentMapMetaData();
 
+native static simulated function bool GetSpecialMissionDisplayNames(EFCMissionType FCType, out array<string> MapDisplayNames);
